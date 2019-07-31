@@ -10,11 +10,13 @@ A megalithic project for practicing... anything!
 
 * All development is test-driven.
 
-* If it doesn't work locally, it doesn't work period.
-
 * All systems should be deployed as microservices.
 
 * All ready code should be dockerized.
 
 * Planning must occur before coding.
+
+* git-flow branching strategy.
+
+* If it doesn't work locally, it doesn't work period.
 
