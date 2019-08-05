@@ -18,5 +18,5 @@ A megalithic project for practicing... anything!
 
 * git-flow branching strategy.
 
-* If it doesn't work locally, it doesn't work period.
+* If it doesn't work locally, it doesn't work period!
 
